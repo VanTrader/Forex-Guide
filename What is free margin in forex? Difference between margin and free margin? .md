@@ -1,3 +1,66 @@
+# What is Free Margin in Forex? Difference Between Margin and Free Margin?  
+
+**Summary:**  
+Free margin in forex trading represents the funds in your account that are available to open new positions or to withstand floating losses. Understanding the difference between margin and free margin is crucial for both beginners and experienced traders, as it impacts your ability to manage risk, optimize leverage, and avoid margin calls. This comprehensive guide covers definitions, calculations, real-life examples, best practices, and advanced tips.  
+
+---
+
+## Table of Contents  
+1. [Introduction](#introduction)  
+2. [Key Forex Terms](#key-forex-terms)  
+   - 2.1 [What Is Margin?](#what-is-margin)  
+   - 2.2 [What Is Free Margin?](#what-is-free-margin)  
+   - 2.3 [What Is Used Margin?](#what-is-used-margin)  
+   - 2.4 [Equity vs. Balance](#equity-vs-balance)  
+3. [How to Calculate Free Margin](#how-to-calculate-free-margin)  
+4. [Margin vs. Free Margin: Core Differences](#margin-vs-free-margin-core-differences)  
+5. [Practical Examples](#practical-examples)  
+   - 5.1 [Example for Beginners](#example-for-beginners)  
+   - 5.2 [Advanced Trader Scenario](#advanced-trader-scenario)  
+6. [Why Free Margin Matters](#why-free-margin-matters)  
+7. [Tips to Manage Your Free Margin](#tips-to-manage-your-free-margin)  
+   - 7.1 [Risk Management](#risk-management)  
+   - 7.2 [Position Sizing](#position-sizing)  
+   - 7.3 [Leverage Considerations](#leverage-considerations)  
+8. [Choosing the Right Forex Broker](#choosing-the-right-forex-broker)  
+9. [Why Exness Is a Top Choice](#why-exness-is-a-top-choice)  
+10. [Conclusion](#conclusion)  
+11. [FAQs](#faqs)  
+
+---
+
+## 1. Introduction  
+In forex trading, **margin** and **free margin** are foundational concepts that dictate how much capital you need to open positions and how many new trades you can initiate. While margin ensures that your broker holds a security deposit against your open positions, free margin represents the untapped portion of your funds. Grasping these concepts helps you trade confidently, avoid liquidation, and scale your positions effectively.
+
+---
+
+## 2. Key Forex Terms  
+
+### 2.1 What Is Margin?  
+- **Margin** is the collateral required by your broker to maintain open positions.  
+- It is a fraction of the full contract size, determined by your chosen leverage (e.g., 1% margin for 1:100 leverage).  
+- Margin protects brokers from default risk if your position moves against you.
+
+### 2.2 What Is Free Margin?  
+- **Free Margin** = **Equity** − **Used Margin**.  
+- It represents the available funds for opening new trades or absorbing unrealized losses.  
+- Maintaining positive free margin is essential to avoid margin calls and forced liquidation.
+
+### 2.3 What Is Used Margin?  
+- **Used Margin** is the sum of all margins currently allocated to your open positions.  
+- As you open new trades, used margin increases, reducing your free margin.
+
+### 2.4 Equity vs. Balance  
+- **Balance**: Your account value excluding unrealized profits/losses.  
+- **Equity** = **Balance** + **Floating P/L** (unrealized profits or losses).  
+- Equity fluctuates in real-time with market movements; free margin depends on equity.
+
+---
+
+## 3. How to Calculate Free Margin  
+1. **Determine Equity**:  
+2. **Subtract Used Margin**:  
+
 3. **Example**:  
 - Balance: $10,000  
 - Unrealized P/L: +$200  
