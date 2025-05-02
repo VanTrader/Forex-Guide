@@ -1,3 +1,62 @@
+# What Is Margin Call in FOREX? How to Calculate Margin in FOREX
+
+## Introduction  
+⚖️ **Margin call** is one of the most important risk management concepts in forex trading. When your account equity falls below the required margin level, your broker will alert you—or automatically close positions—to protect both you and themselves from further losses. Understanding what margin call means, how to calculate margin, and how to avoid margin calls is essential for **beginners** and **veteran** traders alike.
+
+<details>
+<summary>📑 Table of Contents (click to expand)</summary>
+
+1. [Understanding Margin in Forex](#understanding-margin-in-forex)  
+2. [What Is a Margin Call?](#what-is-a-margin-call)  
+3. [Margin Call vs. Stop Out](#margin-call-vs-stop-out)  
+4. [How to Calculate Margin](#how-to-calculate-margin)  
+5. [Factors That Affect Margin Requirements](#factors-that-affect-margin-requirements)  
+6. [How to Avoid a Margin Call](#how-to-avoid-a-margin-call)  
+7. [Tips for Effective Margin Management](#tips-for-effective-margin-management)  
+8. [Top Forex Brokers & Margin Terms](#top-forex-brokers--margin-terms)  
+9. [Conclusion](#conclusion)  
+10. [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)  
+
+</details>
+
+---
+
+## Understanding Margin in Forex  
+💡 **Margin** is the collateral you need to open and maintain a leveraged position. It is *not* a fee but a portion of your equity set aside by the broker.  
+- **Required Margin**: The amount needed to open a position.  
+- **Used Margin**: Total margin tied up in open trades.  
+- **Free Margin**: Equity minus used margin—available for new trades and to absorb floating losses.  
+- **Margin Level (%)**: (Equity / Used Margin) × 100  
+
+### Example  
+- Account Balance: $1,000  
+- Leverage: 1:100  
+- Opening 1 standard lot EUR/USD (100,000 units) requires margin:  
+  100,000 / 100 = $1,000  
+
+---
+
+## What Is a Margin Call?  
+🚨 A **margin call** occurs when your margin level falls below the broker’s threshold (commonly 100% or 50%). At this point:  
+1. You receive an alert (email, pop-up).  
+2. You must deposit more funds or close losing positions.  
+3. If not addressed, the broker may close positions automatically at the **stop-out** level.
+
+Margin calls protect traders from negative equity and brokers from unrecoverable losses.
+
+---
+
+## Margin Call vs. Stop Out  
+| Term           | Definition                                                                                                                                       | Typical Trigger Level |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+| **Margin Call**| Warning that margin level has dropped below the margin call level (e.g., 100% or 80%). You can top up or close trades manually.                 | 100% – 80%            |
+| **Stop Out**   | Automatic closure of open positions when margin level reaches stop-out level (e.g., 50% or 20%) to prevent account going into negative balance. | 50% – 20%             |
+
+---
+
+## How to Calculate Margin  
+🔢 **Required Margin** formula:  
+
 - **Trade Volume**: Number of lots × lot size (e.g., 1 lot = 100,000 units).  
 - **Leverage**: e.g., 1:100.  
 - **Contract Size**: Standard lot = 100,000.  
